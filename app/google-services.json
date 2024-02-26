@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411738922196",
+    "project_id": "messme-app-ba549",
+    "storage_bucket": "messme-app-ba549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411738922196:android:0098f9b7d30732b1ca6f41",
+        "android_client_info": {
+          "package_name": "com.example.messmeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411738922196-t9dsc5v64uca6jjat72ibd2d2ii1pfce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messmeapp",
+            "certificate_hash": "0e7802102e4b64c8705801a17b573e4b026d0149"
+          }
+        },
+        {
+          "client_id": "411738922196-odod87edqrvpf894663lrikovik105c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6t94IGvs61z36D8bbeaXF_m1B9d4vyyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411738922196-odod87edqrvpf894663lrikovik105c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
